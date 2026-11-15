@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>data.gov.uk - waste</title>
+    <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
+    <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
+    <lastBuildDate>Sun, 15 Nov 2026 20:43:24 GMT</lastBuildDate>
+    <item>
+      <title>Soil biological activity in the Chernobyl Exclusion Zone, Ukraine, September 2005 and spring 2016</title>
+      <link>https://www.data.gov.uk/dataset/5cdd48fc-7f94-4058-878f-87bf17c48e2e/soil-biological-activity-in-the-chernobyl-exclusion-zone-ukraine-september-2005-and-spring-2016</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/5cdd48fc-7f94-4058-878f-87bf17c48e2e/soil-biological-activity-in-the-chernobyl-exclusion-zone-ukraine-september-2005-and-spring-2016</guid>
+      <pubDate>Fri, 13 Nov 2026 18:31:37 GMT</pubDate>
+      <description>Data comprise site location, soil chemistry (pH, soil moisture), soil radionuclide activity concentrations (the isotopes measured were: Americium-241, Caesium-137, Plutonium-238, -239 and -240, Strontium-90 (K-40 and U-238 activity concentrations were estimated from stable element data) and soil biological activity (derived from application of bait lamina sticks) at 18 sites in the Chernobyl Exclusion Zone (CEZ), Ukraine in 2016; data for four sites in 2005 are also presented. Estimate absorb...</description>
+    </item>
+    <item>
+      <title>BGS Geology 10k - 25k (DiGMapGB-10 &amp; DiGMapGB-25) Artificial version 3</title>
+      <link>https://www.data.gov.uk/dataset/b8bd1253-2af7-4d82-a0f2-f41c980fb416/bgs-geology-10k-25k-digmapgb-10-digmapgb-25-artificial-version-3</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/b8bd1253-2af7-4d82-a0f2-f41c980fb416/bgs-geology-10k-25k-digmapgb-10-digmapgb-25-artificial-version-3</guid>
+      <pubDate>Fri, 13 Nov 2026 18:22:14 GMT</pubDate>
+      <description>Data identifies landscape areas (shown as polygons) attributed with type of artificial or man-made ground. It indicates areas where the ground surface has been significantly modified by human activity. The scale of the data is 1:10 000 and 1:25 000 scale. Onshore coverage is partial with approximately 52% of England, Scotland, and Wales available in the version 3 data release. BGS intend to continue developing coverage at this scale; current focus is to include all large priority urban areas,...</description>
+    </item>
+    <item>
+      <title>Clumped isotope data from high-pH anthropogenic tufa in the Howden Burn, Consett, North East England</title>
+      <link>https://www.data.gov.uk/dataset/ae20f195-bf5a-437e-9d8c-866043aa0e96/clumped-isotope-data-from-high-ph-anthropogenic-tufa-in-the-howden-burn-consett-north-east-engl</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/ae20f195-bf5a-437e-9d8c-866043aa0e96/clumped-isotope-data-from-high-ph-anthropogenic-tufa-in-the-howden-burn-consett-north-east-engl</guid>
+      <pubDate>Fri, 13 Nov 2026 18:21:06 GMT</pubDate>
+      <description>Clumped isotope data of high-pH anthropogenic carbonate deposits, reported as part-per thousand (per-mille, ‰) relative to international reference materials, and temperatures in degrees Celsius (˚C). Data are acquired from individual layers within carbonate samples. These tufas were collected from the Howden Burn, a stream in Consett, County Durham, Northeast England. Tufa hand specimen samples were acquired from Consett in October 2017. Isotope data were acquired in the Qatar Stable Isotope ...</description>
+    </item>
+    <item>
+      <title>Moment release and associated volume change from a collection of injection- and intrusion-induced seismicity cases (NERC Grant NE/R018006/1)</title>
+      <link>https://www.data.gov.uk/dataset/2a9e578d-8ea3-45e4-a7f8-d82da9253464/moment-release-and-associated-volume-change-from-a-collection-of-injection-and-intrusion-induce</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/2a9e578d-8ea3-45e4-a7f8-d82da9253464/moment-release-and-associated-volume-change-from-a-collection-of-injection-and-intrusion-induce</guid>
+      <pubDate>Fri, 13 Nov 2026 18:20:20 GMT</pubDate>
+      <description>"This data was compiled for the paper "Self-similarity of seismic moment release to volume change scaling for volcanoes: a comparison with injection-induced seismicity", that has been accepted for publication in Geophysical Research Letters. It is a compilation of literature values of volume changes and associated total seismic moment releases for many injection-induced earthquake sequences. It also includes a number of total moment releases and volume changes from volcanic sequences that wer...</description>
+    </item>
+    <item>
+      <title>BGS Mineral Resources Wales version 2</title>
+      <link>https://www.data.gov.uk/dataset/106efcd5-1102-44b9-a8ce-1c281f148c5b/bgs-mineral-resources-wales-version-2</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/106efcd5-1102-44b9-a8ce-1c281f148c5b/bgs-mineral-resources-wales-version-2</guid>
+      <pubDate>Fri, 13 Nov 2026 18:10:25 GMT</pubDate>
+      <description>This dataset provides digital spatial information on the location of mineral resources in Wales at a scale of 1:50 000. The term ‘mineral resources’ has a definition under international standards that includes both an economic and geological dimension. These data are based primarily on mapped geology with limited assessment of economics. Therefore, the term ‘mineral resources’ is used here in a broad sense. The dataset allows users to visualise the extent and distribution of mineral resources...</description>
+    </item>
+    <item>
+      <title>Mineral resource polygons Wales version 1</title>
+      <link>https://www.data.gov.uk/dataset/feb08575-8bd8-4b78-97ab-0b7443cd447d/mineral-resource-polygons-wales-version-1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/feb08575-8bd8-4b78-97ab-0b7443cd447d/mineral-resource-polygons-wales-version-1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:52:30 GMT</pubDate>
+      <description>The British Geological Survey (BGS) was awarded a grant from the Welsh Assembly Government Aggregates Levy Fund in 2009 to provide a comprehensive, relevant and accessible information base to enhance the sustainability of mineral resources for Wales. BGS co-funded this project through its Sustainable Mineral Solutions project. This work was completed in 2010. This dataset comprises the digital GIS files which were produced through this project. The major elements of minerals information prese...</description>
+    </item>
+    <item>
+      <title>Mudstone Microstructure Evolution During Burial and Diagenesis and Effect on Caprock Sealing Capacity</title>
+      <link>https://www.data.gov.uk/dataset/cd30b11b-0db6-4cf8-9153-dcb5b49b3545/mudstone-microstructure-evolution-during-burial-and-diagenesis-and-effect-on-caprock-sealing-ca</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/cd30b11b-0db6-4cf8-9153-dcb5b49b3545/mudstone-microstructure-evolution-during-burial-and-diagenesis-and-effect-on-caprock-sealing-ca</guid>
+      <pubDate>Fri, 13 Nov 2026 17:52:24 GMT</pubDate>
+      <description>PROJECT DETAILS ONLY - NO DATA. Mudstone microstructure is poorly understood even though it has a profound impact upon permeability. Mudstone permeability is critical in defining the rate at which oil and gas leak through oil and gas field caprocks, and the effectiveness of aquicludes utilised in protecting clean confined groundwater supplies and isolating wastes. During burial, mudstone permeability is controlled initially by the depositional fabric and mineralogy and then by mechanical comp...</description>
+    </item>
+    <item>
+      <title>Nirex reference drawings</title>
+      <link>https://www.data.gov.uk/dataset/fb5d9ca9-69e8-45c6-a9fb-914c44f429b9/nirex-reference-drawings</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/fb5d9ca9-69e8-45c6-a9fb-914c44f429b9/nirex-reference-drawings</guid>
+      <pubDate>Fri, 13 Nov 2026 17:51:18 GMT</pubDate>
+      <description>A collection of reference drawings relating to investigations carried out by Nirex, during the period from 1989 to 1997. The drawings summarise the status of the geological investigation at Sellafield and include borehole locations, geology (surface, structure, sections etc) and geophysics (seismic, airborne, etc). Sites near Sellafield, in Cumbria, and Dounreay, in Caithness. The Nirex (Nuclear Industry Radioactive Waste Executive) geological archive was transferred to the British Geological...</description>
+    </item>
+    <item>
+      <title>Geophysical investigations</title>
+      <link>https://www.data.gov.uk/dataset/989693fb-906d-4cee-a0a5-90f5280d251b/geophysical-investigations1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/989693fb-906d-4cee-a0a5-90f5280d251b/geophysical-investigations1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:51:05 GMT</pubDate>
+      <description>Geophysical survey data from Fluid Processes and Waste Management projects for UK and European investigations. Data comprise distinct surveys using a variety of geophysical methods and equipment. All data held electronically as XYZ ASCII-type data points.</description>
+    </item>
+    <item>
+      <title>Nirex Analogue (Paper) Records</title>
+      <link>https://www.data.gov.uk/dataset/35a9de75-dd0c-47b3-b19c-d6cd1d0a1dbb/nirex-analogue-paper-records</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/35a9de75-dd0c-47b3-b19c-d6cd1d0a1dbb/nirex-analogue-paper-records</guid>
+      <pubDate>Fri, 13 Nov 2026 17:50:23 GMT</pubDate>
+      <description>The paper archives comprise a set of the factual and interpretative reports that document the investigations carried out by Nirex (Nuclear Industry Radioactive Waste Executive) and its contractors. In total there are in excess of 2,250 individual volumes. It is the availability of this paper archive of results and interpretation that makes the Nirex geological archives of rock cores and samples unique. The ownership of NIREX (Nuclear Industry Radioactive Waste Executive) was transferred from ...</description>
+    </item>
+    <item>
+      <title>Mine water and mine subsidence</title>
+      <link>https://www.data.gov.uk/dataset/878a5a9c-1d5d-496e-b842-1c8db49b96c9/mine-water-and-mine-subsidence1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/878a5a9c-1d5d-496e-b842-1c8db49b96c9/mine-water-and-mine-subsidence1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:50:18 GMT</pubDate>
+      <description>Reports detailing investigations into mine water discharges and potential effects on aquifers in the East Midlands Coalfield and in the Lake District.</description>
+    </item>
+    <item>
+      <title>Calibration of Speleothem Luminescene Excitation-Emission Wavelength Variations and the Development of High Res Records of Holocene Climate Change for NW Europe</title>
+      <link>https://www.data.gov.uk/dataset/322d71f8-a825-4642-81c5-dec617268af3/calibration-of-speleothem-luminescene-excitation-emission-wavelength-variations-and-the-develop</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/322d71f8-a825-4642-81c5-dec617268af3/calibration-of-speleothem-luminescene-excitation-emission-wavelength-variations-and-the-develop</guid>
+      <pubDate>Fri, 13 Nov 2026 17:49:43 GMT</pubDate>
+      <description>PROJECT DETAILS ONLY - NO DATA. Fibre-optic spectrophotometry permits the non-destructive analysis of speleothem luminescence wavelength with a temporal resolution of 1-10 years. This luminescence derives from the overlying soil organic waste matter: humification rate is climatically controlled in temperate latitudes. A pilot study demonstrates a correlation between the luminescence emission wavelength and mean annual rainfall over the last 70 years, and for the last 3000 years a remarkable 8...</description>
+    </item>
+    <item>
+      <title>Nirex Digital Geoscience Database (NDGD)</title>
+      <link>https://www.data.gov.uk/dataset/e46f82ae-8bfb-4ec4-9193-629c13636490/nirex-digital-geoscience-database-ndgd</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/e46f82ae-8bfb-4ec4-9193-629c13636490/nirex-digital-geoscience-database-ndgd</guid>
+      <pubDate>Fri, 13 Nov 2026 17:48:22 GMT</pubDate>
+      <description>The Nirex Digital Geoscience Database (NDGD) holds extensive sets of data describing geoscientific, geographical, hydrogeological and logistical aspects of the Sellafield area in western Cumbria region. Some datasets comprise unmodified field data (as collected, measured or observed in the field). Others include values assessed during laboratory analysis or testing. Derived or interpolated information, resulting from modelling activity or the integration of several datasets, also accounts for...</description>
+    </item>
+    <item>
+      <title>Index to waste disposal site records</title>
+      <link>https://www.data.gov.uk/dataset/548eb578-266e-46ac-bf26-933bec386531/index-to-waste-disposal-site-records1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/548eb578-266e-46ac-bf26-933bec386531/index-to-waste-disposal-site-records1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:48:14 GMT</pubDate>
+      <description>Oracle index to records of some 3500 waste sites in England and Wales identified by BGS as part of a survey carried out on behalf of the Departement of the Environment in 1973. The index has been corrected and updated to a limited extent, but the data itself has not been changed. The data was collected in 1972 and the information reflects the knowledge at that time. It does not reflect current interpretation. Not all authorities made returns and there are not records for all of the sites list...</description>
+    </item>
+    <item>
+      <title>Waste disposal site records</title>
+      <link>https://www.data.gov.uk/dataset/2788d85b-5909-4aa4-ab57-061ab51c8095/waste-disposal-site-records</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/2788d85b-5909-4aa4-ab57-061ab51c8095/waste-disposal-site-records</guid>
+      <pubDate>Fri, 13 Nov 2026 17:47:46 GMT</pubDate>
+      <description>Records of some 3500 waste sites in England and Wales identified by BGS as part of a survey carried out on behalf of the Department of the Environment in 1973. Information is included on the extent of the site, geology, wastes and risks to aquifers It should be noted that the assessments were carried out when the data was collected and may not reflect current interpretation. There are not records for all of the sites listed.</description>
+    </item>
+    <item>
+      <title>Palaeohydrogeological Data Analysis and Model Testing Database</title>
+      <link>https://www.data.gov.uk/dataset/7b89388d-efb9-4165-8ca7-f4c3902366c5/palaeohydrogeological-data-analysis-and-model-testing-database</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/7b89388d-efb9-4165-8ca7-f4c3902366c5/palaeohydrogeological-data-analysis-and-model-testing-database</guid>
+      <pubDate>Fri, 13 Nov 2026 17:47:37 GMT</pubDate>
+      <description>PADAMOT (Palaeohydrogeological Data Analysis and Model Testing) is a database being built and populated as part of the PADAMOT project which is part of the 5th Framework R&amp;D Programme of the European Union. The research being carried out is contributing to our understanding of the long-term safety of placing radioactive wastes in underground repositories. It is funded by the European Commission, Nirex (UK), SKB (Sweden), ENRESA (Spain) RAWRA (Czech Republic) and BGS (UK). The project is coord...</description>
+    </item>
+    <item>
+      <title>Nirex Magnetic Tape Archives - Processed Data</title>
+      <link>https://www.data.gov.uk/dataset/be38087e-453d-4b9a-9cbf-c5e694b2a0f4/nirex-magnetic-tape-archives-processed-data</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/be38087e-453d-4b9a-9cbf-c5e694b2a0f4/nirex-magnetic-tape-archives-processed-data</guid>
+      <pubDate>Fri, 13 Nov 2026 17:47:14 GMT</pubDate>
+      <description>A significant part of this data collection is geophysical survey data in digital form being derived data created during the subsequent processing and interpretation of the field data described in 'Nirex Magnetic Tape Archives - Raw Data'. These data were originally stored on a variety of media. With the overall aim of delivering an efficient and effective archive service, the data have been consolidated onto DLT cartridges. Some related data, which were either analogue, on obscure media or in...</description>
+    </item>
+    <item>
+      <title>Nirex magnetic tape archives - raw data</title>
+      <link>https://www.data.gov.uk/dataset/183fe7ef-1bd6-4235-b799-87c622eab877/nirex-magnetic-tape-archives-raw-data1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/183fe7ef-1bd6-4235-b799-87c622eab877/nirex-magnetic-tape-archives-raw-data1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:47:12 GMT</pubDate>
+      <description>A significant part of this data collection is geophysical survey data in digital form, being mainly instrumental recordings made during fieldwork. Derived data created during the subsequent processing and interpretation of the field data is described in 'Nirex Magnetic Tape Archives - Processed Data'. These data were originally stored on a variety of media. With the overall aim of delivering an efficient and effective archive service, the data have been consolidated onto DLT cartridges. Some ...</description>
+    </item>
+    <item>
+      <title>Nirex petrological samples and records</title>
+      <link>https://www.data.gov.uk/dataset/177a6527-e77b-4e47-9ccd-0c488f8539e9/nirex-petrological-samples-and-records1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/177a6527-e77b-4e47-9ccd-0c488f8539e9/nirex-petrological-samples-and-records1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:46:23 GMT</pubDate>
+      <description>As an integral part of the investigations carried out at Sellafield, and to a lesser extent for the Dounreay boreholes, the cores from the boreholes were systematically examined by geologists and samples selected for detailed petrographic analysis. Thin sections were prepared from many of these samples. Some of the samples were then prepared for analysis using X-ray fluorescence, X-ray diffraction or scanning electron microscopy. Samples containing fluid inclusions were prepared as doubly pol...</description>
+    </item>
+    <item>
+      <title>Nirex 3-D Modelling Data.</title>
+      <link>https://www.data.gov.uk/dataset/26c0c5a1-4fd3-413a-9206-d7f437bcb3d4/nirex-3-d-modelling-data</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/26c0c5a1-4fd3-413a-9206-d7f437bcb3d4/nirex-3-d-modelling-data</guid>
+      <pubDate>Fri, 13 Nov 2026 17:46:22 GMT</pubDate>
+      <description>During the interpretation of the geological structure of the Sellafield site, a series of 3-D models were created using EarthVision and Vulcan software. These models have been imported into the computer systems operated by British Geological Survey. Geological investigations of the Sellafield and Dounreay areas were undertaken between 1989 and 1997 as part of its programme to determine whether one of the areas might be a suitable location of a deep repository for the disposal of radioactive w...</description>
+    </item>
+    <item>
+      <title>Nirex rock cores and core samples from deep boreholes</title>
+      <link>https://www.data.gov.uk/dataset/e6fa40a8-7d7d-430a-9214-f2f264b59096/nirex-rock-cores-and-core-samples-from-deep-boreholes1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/e6fa40a8-7d7d-430a-9214-f2f264b59096/nirex-rock-cores-and-core-samples-from-deep-boreholes1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:46:20 GMT</pubDate>
+      <description>During the period from 1989 to 1997, Nirex undertook extensive geological investigations at sites near Sellafield, in Cumbria, and Dounreay, in Caithness, to examine whether or not they were suitable locations for a deep repository for radioactive waste. At Sellafield, thirty deep boreholes, and a further thirty-five shallow boreholes, were drilled. The majority of the deep boreholes were drilled to obtain continuous core and some 18.7km of rock core arose from the investigations. Two deep bo...</description>
+    </item>
+    <item>
+      <title>Mines and quarries database - BritPits</title>
+      <link>https://www.data.gov.uk/dataset/8c660338-8721-4274-bd90-c53aa909104a/mines-and-quarries-database-britpits1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/8c660338-8721-4274-bd90-c53aa909104a/mines-and-quarries-database-britpits1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:45:50 GMT</pubDate>
+      <description>List of mines and quarries in the UK including information about operational status, products, lithostratigraphy, chronostratigraphy, pit and operator addresses, minerals planning authority. Digital data has been sold from the BritPits database, since 1994, this has been customised to suit purchasers. Use is also made of sets of operational workings data by Bureau Services who pay royalties and get updates. Older data on operators tends to be incomplete as it was not recorded. Updating is ong...</description>
+    </item>
+    <item>
+      <title>Natural Analogues</title>
+      <link>https://www.data.gov.uk/dataset/b3a2e300-4657-46e7-860f-b36378389f5f/natural-analogues</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/b3a2e300-4657-46e7-860f-b36378389f5f/natural-analogues</guid>
+      <pubDate>Fri, 13 Nov 2026 17:45:41 GMT</pubDate>
+      <description>Data from projects that investigated the migration, transport and retardation processes of naturally occuring trace elements, as analogues the behaviour in the geosphere environment, of radionuclides from radioactive wastes. Study sites included: the Quaternary Broubster Peat Bog, near Thurso in Caithness (study of the migration behaviour and characteristics of U, Th, Ra, Pb, Cu, Zn, organic complexes such as fulvic and humic acids); the Needle's Eye site (Quaternary estuarine and marsh/mudfl...</description>
+    </item>
+    <item>
+      <title>Altnabreac Site Investigation.</title>
+      <link>https://www.data.gov.uk/dataset/2e4af7f9-7465-4d6f-9277-2fe95a9d98ec/altnabreac-site-investigation</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/2e4af7f9-7465-4d6f-9277-2fe95a9d98ec/altnabreac-site-investigation</guid>
+      <pubDate>Fri, 13 Nov 2026 17:44:42 GMT</pubDate>
+      <description>Surface and borehole information for a nuclear waste site investigation programme at Altnabreac, Northern Scotland. Dataset includes geological mapping, surface geophysics, borehole information, borehole geophysics and spring survey geochemistry.</description>
+    </item>
+    <item>
+      <title>Geophysical logs database</title>
+      <link>https://www.data.gov.uk/dataset/87735558-67b3-4730-b241-d25fc8749501/geophysical-logs-database1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/87735558-67b3-4730-b241-d25fc8749501/geophysical-logs-database1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:44:23 GMT</pubDate>
+      <description>The British Geological Survey Geophysical Logs Database provides an index into downhole geophysical log data from onshore UK boreholes held by BGS within the National Geoscience Data Centre (NGDC). Geophysical log data may be used to understand stratigraphy, aid mapping work, assess resources like groundwater and quantify subsurface variability, so they are critical to many projects across the geoscience sector in the UK, including those which contribute towards net zero objectives such as th...</description>
+    </item>
+    <item>
+      <title>Measurements of uranium diffusion and reaction in soil (NERC grant NE/L000288/1)</title>
+      <link>https://www.data.gov.uk/dataset/2c2cfed2-b020-4a82-8240-55bae0f9fe1e/measurements-of-uranium-diffusion-and-reaction-in-soil-nerc-grant-ne-l000288-1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/2c2cfed2-b020-4a82-8240-55bae0f9fe1e/measurements-of-uranium-diffusion-and-reaction-in-soil-nerc-grant-ne-l000288-1</guid>
+      <pubDate>Fri, 13 Nov 2026 17:41:59 GMT</pubDate>
+      <description>Experimental results used to parameterise and a test a mathematical model of uranium diffusion and reaction in soil. The exeperiments and model are described in Darmovzalova J., Boghi A., Otten W., Eades, L., Roose T. &amp; Kirk G.J.D. (2019) Uranium diffusion and time-dependent adsorption-desorption in soil: a model and experimental testing of the model. Eur. J. Soil Sci., doi: 10.1111/ejss.12814. The research was funded by NERC, Radioactive Waste Management Ltd and the Environment Agency throug...</description>
+    </item>
+    <item>
+      <title>Seismic data and velocity models supporting Bentham et al., 2018, 'Investigating the use of 3-D full-waveform inversion to characterize the host rock at a geological disposal site (NERC grant NE/L000423/1)</title>
+      <link>https://www.data.gov.uk/dataset/f9acefb4-0823-41e9-9221-b769a48ec811/seismic-data-and-velocity-models-supporting-bentham-et-al-2018-investigating-the-use-of-3-d-ful</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/f9acefb4-0823-41e9-9221-b769a48ec811/seismic-data-and-velocity-models-supporting-bentham-et-al-2018-investigating-the-use-of-3-d-ful</guid>
+      <pubDate>Fri, 13 Nov 2026 17:39:48 GMT</pubDate>
+      <description>Data deposited are connected to paper "Investigating the use of 3-D full-waveform inversion to characterize the host rock at a geological disposal site" by H.L.M. Bentham, J.V. Morgan and D.A. Angus, in Geophysical Journal International, https://doi.org/10.1093/gji/ggy386. The geological model consists of fractured granite host rock (depth: 800 - 1200 m) with an Excavated disturbed Zone (EdZ) that could be formed through constructing the tunnels. In addition to the host rock, the model contai...</description>
+    </item>
+    <item>
+      <title>Product characterisation for the reductive rejuvenation of waste amine solvents from carbon capture</title>
+      <link>https://www.data.gov.uk/dataset/e1f96fab-331e-4eb2-8a85-c305aa7bd5d7/product-characterisation-for-the-reductive-rejuvenation-of-waste-amine-solvents-from-carbon-cap</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/e1f96fab-331e-4eb2-8a85-c305aa7bd5d7/product-characterisation-for-the-reductive-rejuvenation-of-waste-amine-solvents-from-carbon-cap</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:20 GMT</pubDate>
+      <description>UKCCSRC Call 2 Project C2-189. The data, which was produced as a result of a UK CCSRC Call 2 funded project, consists of the GC-MS characterisation results for the products collected from the rejuvenation tests of degraded amine sorbents from carbon capture and related model degradation compounds. The examined amine-based sorbent samples included one heavily degraded industrial MEA solvent, one degraded solid-supported polyethyleneimine sample and 6 model MEA degradation compounds (N-(2-Hydro...</description>
+    </item>
+    <item>
+      <title>Multi-proxy sediment core record from Lagoon 3, Rutland Water Nature Reserve, UK, 1976-2023: nutrient fractions, stable isotopes, photosynthetic pigments and microcystins</title>
+      <link>https://www.data.gov.uk/dataset/d75cc0a9-9448-4178-9c75-3f7f99a01d5b/multi-proxy-sediment-core-record-from-lagoon-3-rutland-water-nature-reserve-uk-1976-2023-nutrie</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/d75cc0a9-9448-4178-9c75-3f7f99a01d5b/multi-proxy-sediment-core-record-from-lagoon-3-rutland-water-nature-reserve-uk-1976-2023-nutrie</guid>
+      <pubDate>Fri, 13 Nov 2026 17:35:09 GMT</pubDate>
+      <description>This dataset comprises an annually interpolated, multi-proxy geochemical and biological record from a sediment core sequence collected from Lagoon 3 (LG3), Rutland Water Nature Reserve, Rutland, UK, spanning 1976 to 2023 CE. LG3 is a shallow (3-4 m) constructed lagoon that has received water exclusively from the final treated effluent of Oakham Water Recycling Centre since 1979, with no other surface inflows or storm overflow inputs. The site therefore constitutes a controlled natural experim...</description>
+    </item>
+    <item>
+      <title>Permeability, XRD, and mercury intrusion data, and SEM backscatter images from samples of the Cropwell Bridge (Cropwell Bishop) borehole</title>
+      <link>https://www.data.gov.uk/dataset/4e32cd93-f832-4f02-9d88-a65b0517ce20/permeability-xrd-and-mercury-intrusion-data-and-sem-backscatter-images-from-samples-of-the-crop</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/4e32cd93-f832-4f02-9d88-a65b0517ce20/permeability-xrd-and-mercury-intrusion-data-and-sem-backscatter-images-from-samples-of-the-crop</guid>
+      <pubDate>Fri, 13 Nov 2026 17:34:05 GMT</pubDate>
+      <description>This data repository contains all raw data files for permeability measurement, X-ray diffraction (XRD) analysis, high resolution SEM backscatter images and mercury intrusion data files for core material obtained from the Cropwell Bridge (Cropwell Bishop) borehole [SK63NE/28]. This core material is stored at the British Geological Survey, Nottinghamshire. This study presents a comprehensive experimental characterisation of gas permeability, mineralogy and microstructure through a continuous ~ ...</description>
+    </item>
+  </channel>
+</rss>
