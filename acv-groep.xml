@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ACV Groep - nieuws</title>
+    <link>https://acv-groep.nl/nieuws</link>
+    <description>Feed gemaakt door feedtest voor ACV Groep - nieuws</description>
+    <lastBuildDate>Mon, 16 Nov 2026 21:59:27 GMT</lastBuildDate>
+    <item>
+      <title>Vanaf 1 januari 2027 nieuwe ophaaldagen</title>
+      <link>https://acv-groep.nl/nieuws/vanaf-1-januari-2027-nieuwe-ophaaldagen</link>
+      <guid isPermaLink="true">https://acv-groep.nl/nieuws/vanaf-1-januari-2027-nieuwe-ophaaldagen</guid>
+      <pubDate>Mon, 16 Nov 2026 21:59:25 GMT</pubDate>
+      <description>Vanaf 1 januari 2027 veranderen de ophaaldagen voor afval in jouw gemeente. Misschien halen we jouw afval voortaan op een andere dag op. Controleer daarom op tijd je nieuwe afvalkalender.</description>
+    </item>
+    <item>
+      <title>Onze nieuwe website is live! En jouw mening telt.</title>
+      <link>https://acv-groep.nl/nieuws/acv-lanceert-nieuwe-website</link>
+      <guid isPermaLink="true">https://acv-groep.nl/nieuws/acv-lanceert-nieuwe-website</guid>
+      <pubDate>Mon, 16 Nov 2026 21:59:24 GMT</pubDate>
+      <description>ACV doet aan afvalinzameling, recycling en reiniging voor gemeenten en bedrijven in Noord- en Zuid-Holland. Meer info? Bel 0297-381 717.</description>
+    </item>
+    <item>
+      <title>Handige routekaart voor het Waardepunt</title>
+      <link>https://acv-groep.nl/nieuws/routekaarten-waardepunt</link>
+      <guid isPermaLink="true">https://acv-groep.nl/nieuws/routekaarten-waardepunt</guid>
+      <pubDate>Mon, 16 Nov 2026 21:59:23 GMT</pubDate>
+      <description>ACV doet aan afvalinzameling, recycling en reiniging voor gemeenten en bedrijven in Noord- en Zuid-Holland. Meer info? Bel 0297-381 717.</description>
+    </item>
+  </channel>
+</rss>
