@@ -4,7 +4,14 @@
     <title>data.gov.uk - waste</title>
     <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
     <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
-    <lastBuildDate>Sun, 15 Nov 2026 20:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:49:43 GMT</lastBuildDate>
+    <item>
+      <title>Christmas Tree Recycling Point</title>
+      <link>https://www.data.gov.uk/dataset/e5ee497b-18a7-4d57-b7cc-2e72974879a2/christmas-tree-recycling-point</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/e5ee497b-18a7-4d57-b7cc-2e72974879a2/christmas-tree-recycling-point</guid>
+      <pubDate>Tue, 17 Nov 2026 14:02:58 GMT</pubDate>
+      <description>Our Christmas tree recycling points will be open from 4 January to 17 January 2027. Please remember to remove any decorations from your tree. Please note: The City of London no longer collect Christmas trees on Hampstead Heath. There will also be no site at Camden Gardens. Find your nearest alternatives below, and other recycling options at Christmas tree recycling - Camden Council . Dumping your Christmas tree on the street is illegal and if you are caught you could receive a £1000 on-the-sp...</description>
+    </item>
     <item>
       <title>Soil biological activity in the Chernobyl Exclusion Zone, Ukraine, September 2005 and spring 2016</title>
       <link>https://www.data.gov.uk/dataset/5cdd48fc-7f94-4058-878f-87bf17c48e2e/soil-biological-activity-in-the-chernobyl-exclusion-zone-ukraine-september-2005-and-spring-2016</link>
