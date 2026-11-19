@@ -4,7 +4,13 @@
     <title>data.gov.uk - waste</title>
     <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
     <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:47:20 GMT</lastBuildDate>
+    <item>
+      <title>Litter Bins (SDC) (Public)</title>
+      <link>https://www.data.gov.uk/dataset/bbfae1a1-a42a-4b25-9cb3-a631ab6713be/litter-bins-sdc-public</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/bbfae1a1-a42a-4b25-9cb3-a631ab6713be/litter-bins-sdc-public</guid>
+      <pubDate>Thu, 19 Nov 2026 06:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>Christmas Tree Recycling Point</title>
       <link>https://www.data.gov.uk/dataset/e5ee497b-18a7-4d57-b7cc-2e72974879a2/christmas-tree-recycling-point</link>
