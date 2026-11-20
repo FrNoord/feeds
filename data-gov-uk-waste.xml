@@ -4,7 +4,42 @@
     <title>data.gov.uk - waste</title>
     <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
     <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:04:39 GMT</lastBuildDate>
+    <item>
+      <title>Historic Landfill Sites points</title>
+      <link>https://www.data.gov.uk/dataset/26771b65-f434-4c69-94e8-980e8647a081/historic-landfill-sites-points</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/26771b65-f434-4c69-94e8-980e8647a081/historic-landfill-sites-points</guid>
+      <pubDate>Thu, 19 Nov 2026 15:02:11 GMT</pubDate>
+      <description>This dataset shows the point location historic landfill sites that are held in NRWs permitting database and have been issues under the EPR. These are landfill sites which have been taken off the Authorised Landfill Sites points dataset when the waste licence status changes to either: - Licence expired: Some licences issued under the Control of Pollution Act 1974 were time limited and expired on the date specified in the licence. - Licence Revoked: Whereby the licence has been entirely revoked...</description>
+    </item>
+    <item>
+      <title>Authorised Landfill Sites Points</title>
+      <link>https://www.data.gov.uk/dataset/79602bbc-da04-4cd5-997a-58f50e497cb0/authorised-landfill-sites-points</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/79602bbc-da04-4cd5-997a-58f50e497cb0/authorised-landfill-sites-points</guid>
+      <pubDate>Thu, 19 Nov 2026 15:02:10 GMT</pubDate>
+      <description>This dataset shows the location of landfill sites which are currently authorised by Natural Resources Wales (NRW) under The Environmental Permitting (England and Wales) Regulations 2010. This data is a subset of information from NRWs permiting database. The dataset includes waste and installation permits that fall into the following category’s. • A1: Co-Disposal Landfill Site; • A2: Other Landfill Site taking Special Waste; • A4: Household, Commercial and Industrial Waste Landfill; • A5: Land...</description>
+    </item>
+    <item>
+      <title>NRW Open Water Quality Archive</title>
+      <link>https://www.data.gov.uk/dataset/762b8b0e-b6ab-477c-baa4-fa24531053a8/nrw-open-water-quality-archive</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/762b8b0e-b6ab-477c-baa4-fa24531053a8/nrw-open-water-quality-archive</guid>
+      <pubDate>Thu, 19 Nov 2026 15:02:01 GMT</pubDate>
+      <description>NRW’s water quality archive provides data from samples collected around Wales, including coastal, estuary, rivers, lakes, ponds, canals, sewage discharges, trade discharges, pollution investigation points and waste sites. NRW holds data goes back to 1962 whereas the open data product contains data from 2000 onwards. The open data product is extracted from NRW’s Water Quality database (KiWQM) and updated every month. Some field measurements are taken in situ at the sampling station, whereas so...</description>
+    </item>
+    <item>
+      <title>Environmental Permitting Regulations - Industrial Sites</title>
+      <link>https://www.data.gov.uk/dataset/76d96ba7-fe83-4dbc-9983-47eeff28e951/environmental-permitting-regulations-industrial-sites4</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/76d96ba7-fe83-4dbc-9983-47eeff28e951/environmental-permitting-regulations-industrial-sites4</guid>
+      <pubDate>Thu, 19 Nov 2026 15:01:03 GMT</pubDate>
+      <description>The Environmental Permitting Regulations, amongst other things, implement the IPPC (Integrated Pollution Prevention and Control) Directive (EC/61/96) in England and Wales. Facilities covered by this legislation are known as Installations and generally have significant releases to air, land or water, or carry out certain, larger scale, waste management activities.</description>
+    </item>
+    <item>
+      <title>Environmental Pollution Incidents</title>
+      <link>https://www.data.gov.uk/dataset/4d42f2f8-99c6-4598-80ca-1ace7aca72f1/environmental-pollution-incidents4</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/4d42f2f8-99c6-4598-80ca-1ace7aca72f1/environmental-pollution-incidents4</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:50 GMT</pubDate>
+      <description>This dataset contains details pollution incidents reported to Natural Resources Wales (NRW). Only substantiated and closed environmental protection incidents are included. Where these data indicate an incident occurred on a particular site or property no inference should be drawn that the site or property owner necessarily was responsible.</description>
+    </item>
     <item>
       <title>Litter Bins (SDC) (Public)</title>
       <link>https://www.data.gov.uk/dataset/bbfae1a1-a42a-4b25-9cb3-a631ab6713be/litter-bins-sdc-public</link>
