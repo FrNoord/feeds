@@ -4,7 +4,14 @@
     <title>data.gov.uk - waste</title>
     <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
     <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
-    <lastBuildDate>Fri, 20 Nov 2026 07:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:20:47 GMT</lastBuildDate>
+    <item>
+      <title>Hydromechanical and Biogeochemical Processes in Fractured Rock Masses in the Vicinity of a Geological Disposal Facility for Radioactive Waste (NERC grant NE/L000687/1)</title>
+      <link>https://www.data.gov.uk/dataset/2b797077-719c-470c-86b2-ea9d6d5fe0fb/hydromechanical-and-biogeochemical-processes-in-fractured-rock-masses-in-the-vicinity-of-a-geol1</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/2b797077-719c-470c-86b2-ea9d6d5fe0fb/hydromechanical-and-biogeochemical-processes-in-fractured-rock-masses-in-the-vicinity-of-a-geol1</guid>
+      <pubDate>Fri, 20 Nov 2026 18:32:08 GMT</pubDate>
+      <description>Bibliographic Data - Oral and Poster Presentations given by members of Work Package 5 of the HydroFrame (Hydromechanical and Biogeochemical Processes in Fractured Rock Masses in the Vicinity of a Geological Disposal Facility for Radioactive Waste) project. Presentations given between November 2014 and November 2016.</description>
+    </item>
     <item>
       <title>Historic Landfill Sites points</title>
       <link>https://www.data.gov.uk/dataset/26771b65-f434-4c69-94e8-980e8647a081/historic-landfill-sites-points</link>
