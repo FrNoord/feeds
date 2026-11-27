@@ -4,7 +4,56 @@
     <title>data.gov.uk - waste</title>
     <link>https://ckan.publishing.service.gov.uk/api/action/package_search?q=waste&amp;rows=30&amp;sort=metadata_modified+desc</link>
     <description>Feed gemaakt door feedtest voor data.gov.uk - waste</description>
-    <lastBuildDate>Mon, 23 Nov 2026 07:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:21:22 GMT</lastBuildDate>
+    <item>
+      <title>Environmental Permits for disposal of waste sheep dip to land</title>
+      <link>https://www.data.gov.uk/dataset/abf42ee6-a2eb-4fd7-8ff6-64d65163b8ce/environmental-permits-for-disposal-of-waste-sheep-dip-to-land</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/abf42ee6-a2eb-4fd7-8ff6-64d65163b8ce/environmental-permits-for-disposal-of-waste-sheep-dip-to-land</guid>
+      <pubDate>Thu, 26 Nov 2026 16:02:06 GMT</pubDate>
+      <description>This dataset provide details of permit details as required under the Environmental Permit Regulations issued for the disposal of waste sheep dip to land. The data comes from Natural Resources Wales Public Register. The published datasets only includes permits with an 'Effective' status; revoked, expired or surrendered permits are not included.</description>
+    </item>
+    <item>
+      <title>Transfrontier Shipment (TFS) of Waste and Refuse Derived Fuel (RDF) (Wales)</title>
+      <link>https://www.data.gov.uk/dataset/3c66babf-7320-4a52-a73a-29cf65c95e36/transfrontier-shipment-tfs-of-waste-and-refuse-derived-fuel-rdf-wales2</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/3c66babf-7320-4a52-a73a-29cf65c95e36/transfrontier-shipment-tfs-of-waste-and-refuse-derived-fuel-rdf-wales2</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:35 GMT</pubDate>
+      <description>Transfrontier Shipment (TFS) of waste and Refuse Derived Fuel (RDF) waste export data (monthly tonnage weights) from Wales to non-UK countries, since November 2014. TFS or International Waste Shipments are terms used for exporting and importing waste. The Transfrontier Shipment of Waste regulations govern the movement of recyclable materials across borders either by road, rail, ait or sea. The European Community first introduced a directive on control procedures for the shipment of hazardous ...</description>
+    </item>
+    <item>
+      <title>End of life vehicles - Authorised Treatment Facilities - Public Register</title>
+      <link>https://www.data.gov.uk/dataset/f03557b2-9651-4569-a4b7-ccd539922cc3/end-of-life-vehicles-authorised-treatment-facilities-public-register6</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/f03557b2-9651-4569-a4b7-ccd539922cc3/end-of-life-vehicles-authorised-treatment-facilities-public-register6</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:25 GMT</pubDate>
+      <description>Permitted End-of-Life Vehicle (ELV) sites that can meet the required standards in the ELV Directive for de-polluting vehicles. Authorised sites can have access to the DVLA Certificate of Destruction (CoD) scheme.</description>
+    </item>
+    <item>
+      <title>Environmental Permitting Regulations - Waste Sites</title>
+      <link>https://www.data.gov.uk/dataset/3d1f667e-9c38-4e71-afd3-c62a32dff052/environmental-permitting-regulations-waste-sites6</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/3d1f667e-9c38-4e71-afd3-c62a32dff052/environmental-permitting-regulations-waste-sites6</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:21 GMT</pubDate>
+      <description>A waste management licence is a legal document issued under the Environmental Protection Act 1990. A licence authorises the treatment, keeping or disposal of waste in or on the land. Once we have issued a licence, neither the activities nor the area of land may be changed unless the licence is modified.</description>
+    </item>
+    <item>
+      <title>Waste Carriers, Brokers and Dealers</title>
+      <link>https://www.data.gov.uk/dataset/d00a466a-d4d8-4f59-965b-d880e731c783/waste-carriers-brokers-and-dealers163</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/d00a466a-d4d8-4f59-965b-d880e731c783/waste-carriers-brokers-and-dealers163</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:20 GMT</pubDate>
+      <description>This dataset contains details of currently permitted waste carriers, brokers and dealers. Carrier: A person who transports controlled waste in the course of a business or otherwise with a view to profit. Broker: Waste brokers are people who make arrangements, on behalf of others, to recover or dispose of waste, regardless of whether or not they handle the waste themselves. Dealer: Waste dealers are people who use an agent to buy then sell wastes, regardless of whether they handle the waste th...</description>
+    </item>
+    <item>
+      <title>Hazardous Waste Registrations with Standard Industrial Classification (SIC) Code</title>
+      <link>https://www.data.gov.uk/dataset/1cb25208-612d-46f5-86e7-5f1dfd05f4a4/hazardous-waste-registrations-with-standard-industrial-classification-sic-code2</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/1cb25208-612d-46f5-86e7-5f1dfd05f4a4/hazardous-waste-registrations-with-standard-industrial-classification-sic-code2</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:18 GMT</pubDate>
+      <description>The Hazardous Waste Regulations 2005 require that anyone who produces or holds hazardous waste at any premises in Wales must register the premises with Natural Resources Wales each year, unless the total quantity of hazardous waste is less than 500 kg each year. There is an online public register that allows searches to be run on registrations which shows the business name, registration reference, address, postcode, registration start date and registration end date. The dataset contains infor...</description>
+    </item>
+    <item>
+      <title>Waste Management Licence Current Exemptions</title>
+      <link>https://www.data.gov.uk/dataset/9a0764a9-6015-41e7-b952-8bec25a2901c/waste-management-licence-current-exemptions4</link>
+      <guid isPermaLink="true">https://www.data.gov.uk/dataset/9a0764a9-6015-41e7-b952-8bec25a2901c/waste-management-licence-current-exemptions4</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:17 GMT</pubDate>
+      <description>Current Waste Management Licence Exemption data as required by Schedule 3 of the Waste Management Licensing (WML) Regulations 1994 (as amended) lists the activities which are normally exempt from WML in Wales. Circular 26/94 in Wales provides additional information.</description>
+    </item>
     <item>
       <title>Hydromechanical and Biogeochemical Processes in Fractured Rock Masses in the Vicinity of a Geological Disposal Facility for Radioactive Waste (NERC grant NE/L000687/1)</title>
       <link>https://www.data.gov.uk/dataset/2b797077-719c-470c-86b2-ea9d6d5fe0fb/hydromechanical-and-biogeochemical-processes-in-fractured-rock-masses-in-the-vicinity-of-a-geol1</link>
